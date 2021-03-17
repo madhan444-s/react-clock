@@ -1,0 +1,50 @@
+.card{
+    margin: 200px auto;
+    background-color:rgba(240, 234, 234, 0.904);
+    width: 420px;
+    height: 650px;
+    text-align: center;
+}
+
+.react-clock{
+  display: flex;
+  background-color: rgb(56, 51, 51);
+  color: #fff;
+  padding: 25px 0;
+  justify-content: center;
+  font-size: 50px;
+  font-weight: 400px;
+}
+
+.span{
+  display: flex;
+  text-align: center;
+}
+
+.calendar-icon{
+    font-size: 40px;
+}
+
+.clock-timer{
+  background-color: black;
+  height: 250px;
+  width: 250px;
+  border: 15px solid rgb(59, 57, 57);
+  border-radius:50% ;
+  margin :50px ;
+  display:inline-block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #1E90FF
+}
+
+.row{
+  margin-top: 75px;
+}
+
+.calendar-row{
+  margin-top: 15px;
+  display: block;
+  font-size: 20px;
+}
